@@ -19,7 +19,7 @@
 ../../env/vip/tvip_ini_if.sv 
 ../../env/vip/tvip_mem_if.sv 
 ../../env/tb_top.sv 
-../all.sv    
+../all.sv
 ../all_vp.sv    
 +define+SIMULATION  
 +define+RTL_SIM 
