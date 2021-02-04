@@ -1,0 +1,16 @@
+`ifndef TVIP_AXI_DEFINES_SVH
+`define TVIP_AXI_DEFINES_SVH
+
+`ifndef TVIP_AXI_MAX_ID_WIDTH
+  `define TVIP_AXI_MAX_ID_WIDTH 4
+`endif
+
+`ifndef TVIP_AXI_MAX_ADDRESS_WIDTH
+  `define TVIP_AXI_MAX_ADDRESS_WIDTH  28
+`endif
+
+`ifndef TVIP_AXI_MAX_DATA_WIDTH
+  `define TVIP_AXI_MAX_DATA_WIDTH 256
+`endif
+
+`endif

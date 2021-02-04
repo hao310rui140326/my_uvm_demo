@@ -1,0 +1,15 @@
+*design* DebussyLib (btIdent Verdi3_L-2016.06-1)
+Command arguments:
+    +define+verilog
+    -sv
+    -f tb.vc
+
+*Error* failed to open (-f) file "tb.vc"
+
+
+Highest level modules:
+
+
+*Error* The wrong topmost entry (tb_top) of design was specified.
+
+Total	2 error(s),   0 warning(s)

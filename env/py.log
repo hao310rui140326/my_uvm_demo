@@ -1,0 +1,5 @@
+      1    1078    1078    1078 ?             -1 Ssl      0   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+   2883  126927    2883    2883 ?             -1 Sl    1000   1:04  |   \_ /usr/bin/python3 /usr/bin/terminator
+ 458826 2465626 2465626  458826 pts/2    2465626 S+    1000   0:00  |   |   |   \_ python3 ./studentsystem.py
+2443136 2466056 2466055 2443136 pts/6    2466055 S+    1000   0:00  |   |       \_ grep --color=auto python3
+   1965   73485    2814    2814 ?             -1 SNl   1000   0:06  \_ /usr/bin/python3 /usr/bin/update-manager --no-update --no-focus-on-map
